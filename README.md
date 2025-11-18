@@ -94,9 +94,8 @@ plt.show()
 
 ## Tabulation
 
-![WhatsApp Image 2025-10-24 at 20 05 13_24222d49](https://github.com/user-attachments/assets/719a4331-4089-4abe-b01d-ceaad0b3bcd4)
+<img width="403" height="429" alt="image" src="https://github.com/user-attachments/assets/28d5ce89-8e02-4e41-8dfb-3dfcdd6c4629" />
 
----
 
 ## Result
 
