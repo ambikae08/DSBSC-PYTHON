@@ -94,7 +94,8 @@ plt.show()
 
 ## Tabulation
 
-<img width="403" height="429" alt="image" src="https://github.com/user-attachments/assets/28d5ce89-8e02-4e41-8dfb-3dfcdd6c4629" />
+<img width="385" height="541" alt="image" src="https://github.com/user-attachments/assets/c74cc9ab-9631-4060-913f-3cf6ceaf3297" />
+
 
 
 ## Result
